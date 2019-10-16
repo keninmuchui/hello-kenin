@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    font-family: sans-serif;
+
+}
+ul {
+    line-height: 40px;
+}
+h1 {
+    color: #00f;
+}
+h1 {
+    color: #0000ff;
+}
+.image1 img {
+    width: 400px;
+}
+.image2 img {
+    width: 400px;
+}
+
